@@ -1,4 +1,0 @@
-git clone 
-git add 01.txt
-git commit -m ""
-git push
