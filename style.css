@@ -1,0 +1,211 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.mainbook {
+    display: block;
+    width: 100%;
+    height: 19200px;
+}
+
+.oblojka {
+    display: block;
+    width: 100% ;
+    height: 240px;
+
+}
+
+.img1{
+    width: 150px;
+    height: 200px;
+    margin-top: 0;
+    margin-left: 10px;
+    padding-right: 10px;
+    float: left;
+}
+
+.info {
+    display: block;
+    width: 100% ;
+    height: 150px;
+
+}
+
+.grant {
+    display: block;
+    width: 100% ;
+    height: 230px;
+
+}
+
+.zmistm {
+    display: block;
+    width: 100% ;
+    height: 490px;
+
+}
+
+h4 {
+    text-align: right;
+    text-decoration: underline;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+#pravo {
+    margin-top: 0;
+    margin-bottom: 2px;
+    text-align: right;
+    font-style: italic;
+}
+#pravo1 {
+    margin-top: 0;
+    margin-bottom: 2px;
+    text-align: right;
+    font-style: italic;
+}
+#pravo2 {
+    margin-top: 0;
+    margin-bottom: 2px;
+    text-align: right;
+    font-style: italic;
+}
+
+.img2{
+    width: 150px;
+    height: 200px;
+    margin-top: -15px;
+    margin-left: -10px;
+    padding-right: 10px;
+    float: left;
+}
+
+hr {
+    height: 3px;
+    background-color: blue;
+}
+
+p {
+    margin: 20px;
+    text-indent: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+#zmist {
+    text-align: left;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+/*              HANDBOOK            */
+
+
+
+table {
+    border: 1px solid black;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+th{
+    border: 1px solid black;
+}
+td{
+    border: 1px solid black;
+}
+
+
+
+
+/*         FILM          */
+
+
+.main {
+    display: block;
+    width: 100%;
+    height: 800px;
+}
+
+.verh {
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.img3{
+    width: 150px;
+    height: 220px;
+    margin-top: 5px;
+    margin-left: 5px;
+    padding-right: 10px;
+    float: left;
+}
+.header {
+    display: block;
+    width: 100%;
+    height: 230px;
+}
+
+.photo {
+    display: block;
+    width: 100%;
+    height: 600px;
+}
+
+.photo1 {
+    /*display: block;*/
+    width: 320px;
+    height: 240px;
+    float: left;
+    margin-left: 300px;
+}
+.photo2 {
+    display: block;
+    width: 320px;
+    height: 240px;
+    float: right;
+    margin-right: 300px;
+}
+.photo3 {
+    display: block;
+    width: 320px;
+    height: 240px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 300px;
+}
+.photo4 {
+    display: block;
+    width: 320px;
+    height: 240px;
+    float: right;
+    margin-top: 35px;
+    margin-right: 300px;
+}
+.type{
+    width: 320px;
+    height: 200px;
+}
+
+.footer {
+    display: block;
+    width: 100%;
+    height: 250px;
+}
+
+.jir {
+    font-weight: bold;
+}
